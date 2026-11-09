@@ -3,9 +3,11 @@
 An ASTRAVA studio demonstration project exploring a digital menu and practical tools for everyday restaurant workflows.
 
 ## Goal
+
 Build an application with a customer-facing digital menu and a separate management area for maintaining menu information and handling basic restaurant operations.
 
 ## MVP candidates
+
 - Public digital menu
 - Menu categories and item details
 - Pricing and availability controls
@@ -17,14 +19,17 @@ Build an application with a customer-facing digital menu and a separate manageme
 The project owner must confirm the actual MVP before implementation. Do not assume every candidate is required.
 
 ## Status
+
 **Initial setup / planning.** This README does not imply that features are implemented or deployed.
 
 ## Start here
+
 1. Clone this repository and open its root folder in your editor.
-2. Ask your AI coding agent to inspect the repository and summarize its current state.
+2. Follow [Contributor Onboarding](docs/ONBOARDING.md).
 3. Read [Project Context](docs/PROJECT_CONTEXT.md).
-4. Confirm the feature scope, stack, and architecture with the project owner before scaffolding or installing dependencies.
-5. Use the skills already installed in your agent environment when relevant. Do not copy skill packs or create a duplicate skill-management system in this repository.
+4. Follow the [Shared ASTRAVA Studio Working Standard](docs/ASTRAVA_STUDIO_STANDARD.md).
+5. Confirm the feature scope, stack, and architecture with the project owner before scaffolding or installing dependencies.
+6. Use the skills already installed in your agent environment when relevant. Do not copy skill packs or create a duplicate skill-management system in this repository.
 
 Setup commands will be added after the technology stack is selected.
 
