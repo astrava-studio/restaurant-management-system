@@ -1,36 +1,34 @@
 # Restaurant Menu & Management System
 
-An ASTRAVA studio demonstration project exploring a digital menu and practical tools for everyday restaurant workflows.
+An **ASTRAVA studio demonstration project** exploring a digital menu and practical tools for everyday restaurant workflows.
 
-## Goal
+## Purpose
 
-Build an application with a customer-facing digital menu and a separate management area for maintaining menu information and handling basic restaurant operations.
+Provide two related experiences:
 
-## MVP candidates
+- A customer-facing digital menu for browsing restaurant items, descriptions, prices, and availability.
+- A separate management area for authorized restaurant owners or staff to maintain menu information and, if included in scope, handle basic operations.
 
-- Public digital menu
-- Menu categories and item details
-- Pricing and availability controls
-- Protected restaurant admin area
+## Proposed capabilities
+
+The initial scope being considered includes:
+
+- Public digital menu and menu categories
+- Menu item details, pricing, and availability
+- Protected restaurant management area
 - Basic order creation and status tracking
-- Table association, if in scope
-- Simple operational dashboard
+- Optional table association and operational dashboard
 
-The project owner must confirm the actual MVP before implementation. Do not assume every candidate is required.
+The final MVP will be defined before implementation. These items describe proposed scope, not completed functionality.
 
-## Status
+## Project status
 
-**Initial setup / planning.** This README does not imply that features are implemented or deployed.
+**Initial setup and planning.** No application functionality, technology stack, or deployment is implied by this repository's current state.
 
-## Start here
+## Project context
 
-1. Clone this repository and open its root folder in your editor.
-2. Follow [Contributor Onboarding](docs/ONBOARDING.md).
-3. Read [Project Context](docs/PROJECT_CONTEXT.md).
-4. Follow the [Shared ASTRAVA Studio Working Standard](docs/ASTRAVA_STUDIO_STANDARD.md).
-5. Confirm the feature scope, stack, and architecture with the project owner before scaffolding or installing dependencies.
-6. Use the skills already installed in your agent environment when relevant. Do not copy skill packs or create a duplicate skill-management system in this repository.
+See [Project Context](docs/PROJECT_CONTEXT.md) for target users, workflows, product decisions to resolve, security constraints, and current project decisions.
 
-Setup commands will be added after the technology stack is selected.
+---
 
-Built as an ASTRAVA studio demonstration project, not a client engagement.
+An ASTRAVA studio demonstration project, not a client engagement.
